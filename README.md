@@ -19,12 +19,6 @@ app.py                  → Controlador: expõe os endpoints REST
 
 ---
 
-## ✨ Feature Implementada
-
-- **Múltiplas Avaliações:** suporte para exibir várias críticas e notas de diferentes leitores para o mesmo livro.
-
----
-
 ## 🚀 Como Executar
 
 ```bash
