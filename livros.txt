@@ -1,0 +1,51 @@
+O Silêncio dos Inocentes,Suspense
+O Iluminado,Suspense
+Sherlock Holmes: Um Estudo em Vermelho,Suspense
+Boneco de Neve,Suspense
+A Garota no Trem,Suspense
+O Chamado de Cthulhu,Horror
+A Cor que Caiu do Espaço,Horror
+It: A Coisa,Horror
+Drácula,Horror
+Frankenstein,Horror
+O Exorcista,Horror
+Psicose,Suspense
+O Vilarejo,Horror
+Orgulho e Preconceito,Romance
+Como Eu Era Antes de Você,Romance
+A Culpa é das Estrelas,Romance
+Dom Casmurro,Romance
+O Morro dos Ventos Uivantes,Romance
+Jane Eyre,Romance
+Amor & Gelato,Romance
+É Assim que Acaba,Romance
+Vermelho, Branco e Sangue Azul,Romance
+Razão e Sensibilidade,Romance
+Duna,Ficção Científica
+Neuromancer,Ficção Científica
+Fundação,Ficção Científica
+Androides Sonham com Ovelhas Elétricas?,Ficção Científica
+2001: Uma Odisseia no Espaço,Ficção Científica
+O Guia do Mochileiro das Galáxias,Ficção Científica
+O Hobbit,Fantasia
+Harry Potter e a Pedra Filosofal,Fantasia
+O Senhor dos Anéis: A Sociedade do Anel,Fantasia
+O Nome do Vento,Fantasia
+Game of Thrones,Fantasia
+Crônicas de Nárnia,Fantasia
+Percy Jackson e o Ladrão de Raios,Fantasia
+Código Limpo,Tecnologia
+Arquitetura Limpa,Tecnologia
+O Programador Pragmático,Tecnologia
+Design Patterns,Tecnologia
+Refatoração,Tecnologia
+Engenharia de Software Moderno,Tecnologia
+Entendendo Algoritmos,Tecnologia
+Sapiens: Uma Breve História da Humanidade,História
+O Poder do Hábito,Autoajuda
+Pai Rico, Pai Pobre,Finanças
+A Arte da Guerra,Estratégia
+Meditações,Filosofia
+1984,Distopia
+A Revolução dos Bichos,Distopia
+Fahrenheit 451,Distopia

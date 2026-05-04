@@ -1,0 +1,2 @@
+Semana de Horror,20%,4,bg-red-900
+Festival de Tecnologia,15%,5,bg-blue-900
